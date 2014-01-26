@@ -2,7 +2,7 @@
 # Contributor: Kyle Fuller <inbox at kylefuller dot co dot uk>
 
 pkgname="zfs-dkms-therp-git"
-pkgver=0.6.2_r162.g3566d5c
+pkgver=0.6.2_r167.g01b738f
 _pkgver=${pkgver/_*/}
 pkgrel=1
 pkgdesc="Kernel modules for the Zettabyte File System."
